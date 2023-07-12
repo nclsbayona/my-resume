@@ -1,2 +1,2 @@
 # MyResume
-HTTP Resume with CSS
+HTTP Resume with CSS. I followed the [template](https://javascript.plainenglish.io/build-a-killer-developer-resume-with-html-and-css-3663a24151be) described in the referenced article, however I modified some things to make my resume look the way I wanted it to look.
