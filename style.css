@@ -27,7 +27,7 @@ body {
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #D6DBDF;
+    background-color: #f2f7fa;
 }
 
 .left-section-contents {
