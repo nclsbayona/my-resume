@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -29,7 +28,7 @@ body {
 
 .right-section-contents ul {
     list-style-position: initial;
-    list-style-image: none;
+    list-style-image: none !important;
 }
 
 .right-section {
@@ -186,8 +185,8 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
-    padding-left: 3rem;
-    border-left: medium dotted rgb(49, 56, 61);
+    padding-left: 3rem !important;
+    border-left: medium dotted rgb(49, 56, 61) !important;
 }
 
 .exp-company-name,
